@@ -5,7 +5,6 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![AWS](https://img.shields.io/badge/AWS-CodePipeline-orange?logo=amazon-aws)
 ![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)
-![Contributions](https://img.shields.io/badge/contributions-welcome-success)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-codepipeline-updated)
