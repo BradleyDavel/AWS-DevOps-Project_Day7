@@ -10,7 +10,7 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-devops-codepipeline-updated)
 
 **Author:** Bradley Davel  
-**Email:** bradleydavel123@gmail.com
+**Email:** bradley.davel@outlook.com
 
 ---
 
